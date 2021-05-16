@@ -1,0 +1,31 @@
+<html>
+<head>
+<style>
+body {background-color: lightgreen;}
+h1   {color: darkgreen;font-family: "Papyrus";font-size:100px;position:absolute;left:550px;top:50px;}
+h2   {color: darkgreen;font-family: "Papyrus";font-size:50px;position:absolute;left:450px;top:200px;}
+p    {color: red;}
+h3   {color: darkgreen;}
+</style>
+</head>
+<body>
+<div id="img0">
+<img width="320" height="220" src="http://2.bp.blogspot.com/-L6xRdB2Ikxk/T8VGMYKZRFI/AAAAAAAAB4A/dUHx-Rl9iLI/s1600/IMG_3544-10.jpg"></img>
+<h3>They destroy homes...</h3>
+</div>
+<img width="200" height="300" src="https://i.pinimg.com/originals/6d/41/b8/6d41b8a317199dedbcf567f2ea5cbb11.png">
+<h3>deplete water...</h3>
+</img>
+<img style="position:absolute; top:10px; right:10px; height:200px; width:300px;"src="https://www.chicagotribune.com/resizer/3P1nKQP_FlQHBygQusNUzjscAc8=/1200x0/center/middle/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/PKVBGGQ45VGVPPCICAVVFSKVO4.jpg">
+<h3 style="position:absolute; top:200px; right:10px;">kill pollinators...<h3>
+</img>
+<img style="position:absolute; top:380px; right:10px; height:200px; width:300px;"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT49eSCsWjAGE4coUnWdJFAnD6G4OziZKtlGmYr_0pblZM5GdB:snelllandscape.com/wp-content/uploads/2016/06/4507810159_eac54e1879_o-600x300.jpg&usqp=CAU">
+<h3 style="position:absolute; top:580px; right:10px;">... and are one of homeowners' greatest sources of pride.<h3>
+</img>
+<div class="mydiv">
+<h1> Lawns <h1>
+<h2> A suburban menace <h2>
+<button onclick="location.href = 'file:///C:/Users/clcq0.SCHLS/Desktop/ecohacks/web2.htm'" style="background-color:pink;position:absolute;left:200px;top:200px;width:100px;height:100px;"><h3>How you can help<h3></button>
+</div>
+</body>
+</html>

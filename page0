@@ -25,7 +25,7 @@ h3   {color: darkgreen;}
 <div class="mydiv">
 <h1> Lawns <h1>
 <h2> A suburban menace <h2>
-<button onclick="location.href = 'file:///C:/Users/clcq0.SCHLS/Desktop/ecohacks/web2.htm'" style="background-color:pink;position:absolute;left:200px;top:200px;width:100px;height:100px;"><h3>How you can help<h3></button>
+<button onclick="location.href = 'https://github.com/birdsandbytes/lawns/page1.github.io'" style="background-color:pink;position:absolute;left:200px;top:200px;width:100px;height:100px;"><h3>How you can help<h3></button>
 </div>
 </body>
 </html>
